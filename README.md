@@ -9,7 +9,7 @@ I’m a seasoned Software Engineer with over a decade of experience specializing
 - **Frameworks**: Laravel, CodeIgniter
 - **Tools & Platforms**: Docker, Git, AWS
 - **Databases**: MySQL, PostgreSQL
-- **Other**: Team Leadership, Payment Gateway Integration, Performance Optimization
+- **Other**: Team Leadership, Payment Gateway Integration,Twilio SMS Integration, Performance Optimization
 
 ## 🏆 Notable Projects
 - **Mickaido-POS**: Led the development of a new platform
