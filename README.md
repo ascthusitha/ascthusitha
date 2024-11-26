@@ -21,8 +21,6 @@ I’m a seasoned Software Engineer with over a decade of experience specializing
 - Cloud infrastructure with AWS and Docker for scalable applications.
 - Improving backend performance with advanced caching techniques.
 
-## 📊 GitHub Stats
-![ascthusitha](https://github-readme-stats.vercel.app/api?username=ascthusitha&show_icons=true&theme=radical)
 
 ## 📫 Let's Connect!
 - LinkedIn: https://www.linkedin.com/in/thusithawanasingha/
